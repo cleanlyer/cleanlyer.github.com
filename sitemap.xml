@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cleanlyer.org/categories/</loc>
+    <loc>http://cleanlyer.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cleanlyer.org/</loc>
+    <loc>http://cleanlyer.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cleanlyer.org/tags/</loc>
+    <loc>http://cleanlyer.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
